@@ -1,0 +1,6 @@
+{
+  "name": "JeeOrbit",
+  "description": "A futuristic JEE preparation platform with AI tutoring, mock tests, and a study dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
